@@ -58,3 +58,6 @@ CREATE TABLE IF NOT EXISTS `request` (
 
 Create these tables on your local server and copy the entire manybooks folder to the appropriate localhost directory. 
 now you are all set to go...
+
+
+In the end, create a folder named 'uploads'. Within the 'uploads' folder, create another folder named 'pdf'. This folder will hold the books and cover images uploaded by the admin and the user.
